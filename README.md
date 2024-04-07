@@ -1,2 +1,2 @@
 # Eyemouse-
-Control carsel using eye ( Eyemouse)
+Control cursor using eye ( Eyemouse)
